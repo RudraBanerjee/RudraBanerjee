@@ -1,3 +1,4 @@
+ <img src="https://github.com/RudraBanerjee/RudraBanerjee/blob/main/Rudra%20Banerjee.gif" width="100%" align="center">
 <h1 align="center">Hi 👋, I'm Rudra Banerjee</h1>
 <h3 align="center">Aspiring Software developer from India</h3>
 <img align="right" alt="coding" width="400" src= "https://github.com/RudraBanerjee/RudraBanerjee/blob/main/full-stack-img.gif">
